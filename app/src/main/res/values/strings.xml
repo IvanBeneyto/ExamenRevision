@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExamenRevision</string>
+
+    <string name="restName">Restaurante de Ivan</string>
+    <string name="insertName">Introduce tu nombre: </string>
+    <string name="name">Name... </string>
+    <string name="seats2">2 asientos</string>
+    <string name="seats4">4 asientos</string>
+    <string name="seats8">8 asientos</string>
+</resources>
